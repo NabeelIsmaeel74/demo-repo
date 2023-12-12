@@ -15,6 +15,7 @@ int  main() {
 
     cout<<"hello world" ;
     cout<<"hello world" ;
+    cout<<"test" ; 
 
     //hi
     //  add new feature
